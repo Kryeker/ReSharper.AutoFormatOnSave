@@ -44,7 +44,7 @@ namespace ReSharper.AutoFormatOnSave
         /// <summary>
         /// The name for the ReSharper silent code cleanup command.
         /// </summary>
-        private const string ReSharperSilentCleanupCodeCommandName = "ReSharper_SilentCleanupCode";
+        private const string ReSharperSilentCleanupCodeCommandName = "ReSharper.ReSharper_SilentCleanupCode";
 
         #endregion
 
